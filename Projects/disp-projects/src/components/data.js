@@ -43,4 +43,8 @@ export const Side_Project_Data = [
     title: 'Modal-window-JS',
     link: 'https://modal-window-js.vercel.app/',
   },
+  {
+    title: 'Pig-Game-JS',
+    link: 'https://pig-game-js-delta.vercel.app/',
+  },
 ]
