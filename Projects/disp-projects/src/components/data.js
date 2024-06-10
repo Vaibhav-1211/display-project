@@ -39,4 +39,8 @@ export const Side_Project_Data = [
     title: 'Guess the Number - JS Game',
     link: 'https://guessthegamejs-game-flib1hvtu-vaibhav-kabiras-projects.vercel.app/',
   },
+  {
+    title: 'Modal-window-JS',
+    link: 'https://modal-window-js.vercel.app/',
+  },
 ]
